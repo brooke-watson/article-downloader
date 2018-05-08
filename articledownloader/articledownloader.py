@@ -1,8 +1,7 @@
 import requests
 from requests.utils import quote
 import re
-import json
-import scrapers
+import json 
 from autologging import logged, traced
 from csv import reader
 from time import sleep
